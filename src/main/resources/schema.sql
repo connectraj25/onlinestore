@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS book;
+
+CREATE TABLE book (
+  id BIGINT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(255) NOT NULL,
+  description VARCHAR(255),
+  author VARCHAR(100) NOT NULL,
+  type VARCHAR(100),
+  price DOUBLE NOT NULL,
+  isbn VARCHAR(100) NOT NULL,
+  quantity int,
+  PRIMARY KEY (id)
+  );

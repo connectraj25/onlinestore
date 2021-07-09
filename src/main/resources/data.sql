@@ -1,0 +1,4 @@
+INSERT INTO book (name, description, author, type, price, isbn,quantity) VALUES ('Burning Down the House: Essays on Fiction', 'Sample Description', 'Baxter, Charles', 'fiction', 50.00, '1555975089',2);
+INSERT INTO book (name, description, author, type, price, isbn,quantity) VALUES ('No Knives in the Kitchens of This City: A Novel', 'Sample Description', 'Khalifa, Khaled','fiction', 60.00 , '9774167813',3);
+INSERT INTO book (name, description, author, type, price, isbn,quantity) VALUES ('Comic-Con Episode IV: A Fans Hope', 'Sample Description', 'Spurlock, Morgan', 'comic', 10.00, '0756683424',1);
+INSERT INTO book (name, description, author, type, price, isbn,quantity) VALUES ('Perspective! for Comic Book Artists: How to Achieve a Professional Look in your Artwork', 'Sample Description', 'Chelsea, David', 'comic', 30.00, '0823005674',2);
